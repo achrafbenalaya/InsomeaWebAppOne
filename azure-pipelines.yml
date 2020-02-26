@@ -19,4 +19,4 @@ steps:
 - task: PublishPipelineArtifact@0
   inputs:
     artifactName: 'angular'
-    targetPath: 'dist'
+    targetPath: 'dist/InsomeaWebAppOne'
